@@ -1,0 +1,8 @@
+[package]
+name = "no_std"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+defmt = "0.3.8"
+defmt-test = "0.3.2"
